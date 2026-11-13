@@ -65,9 +65,28 @@ Most of my work lives in private repositories. Happy to walk through any of it.
 
 | Project | What it does | Stack |
 |---|---|---|
+| **videoClipTrans** | Turns YouTube videos into short clips for TikTok, Reels and Shorts: finds the most-replayed moments, cuts losslessly, transcribes with Whisper, burns in styled karaoke subtitles, writes captions with a local LLM and publishes to TikTok with performance analytics. Also creates narrated AI story videos from a topic. | FastAPI · React · PostgreSQL · Whisper · FFmpeg · Ollama · Playwright |
 | **BabelDB** | Chat with your databases: connects to PostgreSQL, MySQL, Oracle, SQL Server and more, and generates an AI assistant that answers questions about that data using a local LLM. | FastAPI · React · Ollama · Docker |
 | **Public Tender Monitor** | Bot that downloads and parses Spanish public procurement tenders (PLACSP), detects new and updated ones, and serves KPIs, advanced search and exports in a control panel. | FastAPI · React · PostgreSQL · APScheduler |
 | **BOE Regulatory Agent** | Monitors the Spanish Official Gazette (BOE) and datos.gob.es, extracts and reconciles regulatory documents, and stores them in SharePoint or locally. | FastAPI · React · PostgreSQL |
 | **Data Quality Validator** | Validates Excel files against a rule catalogue and keeps a full record of every run and non-conformity. | Python · Streamlit · SQLite |
 | **[World Cup Live 2026](https://worldcup-live-2026.vercel.app)** | Live standings, schedule and results for the 2026 World Cup, in 8 languages. | Next.js · TypeScript · Tailwind |
 | **[Climate Change Analytics](https://github.com/Oveer01/TFM-Cambio-Climatico)** | Master's thesis (team project): ETL into MySQL and Power BI dashboards linking CO₂ emissions, temperature change and development indicators. | Python · MySQL · Power BI |
+
+## GitHub activity
+
+Most of my commits go to private repositories, so these cards count every contribution, not just public code.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oveer01&theme=tokyonight">
+  <img alt="Contribution activity over time" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oveer01&theme=default">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Oveer01&theme=tokyonight&hide_border=true">
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Oveer01&hide_border=true">
+</picture>
+
+</div>
